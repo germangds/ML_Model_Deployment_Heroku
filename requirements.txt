@@ -1,0 +1,4 @@
+. # Install current directory
+
+# Extra dependencies for the web application
+flask~=1.1.2
